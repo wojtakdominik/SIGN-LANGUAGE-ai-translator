@@ -27,7 +27,7 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/yourusername/sign-language-translator.git
+git clone https: //github.com/yourusername/sign-language-translator.git
 Install required libraries:
 
 pip install -r requirements.txt
