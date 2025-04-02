@@ -22,30 +22,16 @@ Validation Set: 10% is used for hyperparameter tuning and model validation.
 
 Test Set: 15% is used to evaluate the model's performance after training.
 
-Requirements
-Python 3.x
-
-TensorFlow or PyTorch (depending on your preference)
-
-scikit-learn
-
-OpenCV (for video and image processing)
-
-Matplotlib (for plotting)
 
 Installation
 Clone the repository:
 
-bash
-Kopiuj
-Edytuj
+
 git clone https://github.com/yourusername/sign-language-translator.git
 Install required libraries:
 
-bash
-Kopiuj
-Edytuj
 pip install -r requirements.txt
+
 Usage
 Prepare the dataset: Place the dataset in the appropriate folder, ensuring it is organized by the classes (e.g., ASL letters).
 
